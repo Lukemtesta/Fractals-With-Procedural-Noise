@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Texture.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Texture.cs" Line="16" Column="33" />
+      <File FileName="Assets\Scripts\TextureFractal.cs" Line="14" Column="30" />
+      <File FileName="Assets\Scripts\ProceduralNoise.cs" Line="1" Column="1" />
+      <File FileName="Assets\Editor\TextureInspector.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\source\pi_master\Unity\Procedural Noise - Fractal\Assets\Assets\Scripts\TextureManager.cs" line="50" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\Scripts\TextureManager.cs" line="64" offsetX="645" offsetY="1071" expression="m_texture" liveUpdate="False" />
+    <Watch file="Assets\Scripts\TextureManager.cs" line="214" offsetX="261" offsetY="3621" expression="m_texture" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
